@@ -132,7 +132,7 @@ Project Gabriel for OUK
 
 				<div class="social-links">
 					<img id="social_img" src="images/LinkedIn.jpg">
-					<h3>Find me on Yahoo & LinkedIn</h3>
+					<h3>Find me on gmail & LinkedIn</h3>
 
 					<a target="_blank" href="https://www.linkedin.com/in/gabriel-king-uku-084322a2</a>
 					<br>
